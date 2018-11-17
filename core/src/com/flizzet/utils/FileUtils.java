@@ -9,7 +9,7 @@ import com.badlogic.gdx.Gdx;
 
 public class FileUtils {
 
-	private static String directory = "/Users/Flizzet/Documents/javaWorkspace/SuperCaveJumper/android/assets/";
+	private static String directory = "~/Users/Flizzet/Documents/JavaWorkspace/SuperCaveJumper/android/assets/";
 	private static File file = Gdx.files.internal("dirs.txt").file();
 
 	/** @return all string values of the directories in the directory defined */

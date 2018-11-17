@@ -2,7 +2,7 @@
 Cross platform casual shooter built in Java with LibGDX. Released on Google Play
 
 ### Download (Android):
-https://play.google.com/store/apps/details?id=com.flizzet.main&hl=en_US
+[Google Play](https://play.google.com/store/apps/details?id=com.flizzet.main&hl=en_US)
 
 ## Description from Play Store
 Fight it out in this free, action packed, pixel stuffed, fun filled jump and shoot arcade game.
@@ -25,3 +25,17 @@ With no connection needed, you can play Ammo Inferno any time you need. Dash thr
 Jump in and test your skills against the deathly beasts of the cave.
 When you're done and want to tell your story - or managed to break the game, contact us at:
 pedro@flizzet.com
+
+## Setup/Requirements
+- Android SDK Version: 20
+- Android Build Tools Version: 25.0.2
+- Gradle version: 1.5.0
+
+### Run configuration
+Run configurations must set the working directory to android/assets
+
+## Directory Lister
+### Why
+Ammo Inferno reads a dirs.txt file, containing all asset file names, for a load on mobile that doesn't require searching through directories - an extremely expensive operation.
+### What
+Directory lister turns dirs.txt into a array style list, as a work around in the case of file not found exceptions
