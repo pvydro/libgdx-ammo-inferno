@@ -1,0 +1,11 @@
+<EYES> : false
+<EYESPEED> : 0
+<BATS> : true
+<BATSPEED> : 300
+<FLYINGZOMBIES> : false
+<FLYINGZOMBIESPEED> : 0
+<ZOMBIES> : true
+<ZOMBIEDIFFICULTY> : 2
+<SPIKES> : false
+<SAWS> : true
+<TRAPS> : false

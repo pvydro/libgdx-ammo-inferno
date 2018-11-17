@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/flizzet/.gradle/caches/modules-2/files-2.1/com.badlogicgames.box2dlights/box2dlights/1.4/3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd/box2dlights-1.4.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd">
+        <dex dex="/Users/flizzet/Documents/JavaWorkspace/SuperCaveJumper/android/build/intermediates/pre-dexed/debug/box2dlights-1.4_0500acfa66fb37ee21ea8b71bf116a0e76769ab4.jar" />
+    </item>
+    <item
+        jar="/Users/flizzet/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-ai/1.8.0/ec30677d8ab1a8b8aa4b853c5f4e4b1361f50bf5/gdx-ai-1.8.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ec30677d8ab1a8b8aa4b853c5f4e4b1361f50bf5">
+        <dex dex="/Users/flizzet/Documents/JavaWorkspace/SuperCaveJumper/android/build/intermediates/pre-dexed/debug/gdx-ai-1.8.0_712028e3045377619dfccf52154cf70569f0f4fd.jar" />
+    </item>
+    <item
+        jar="/Users/flizzet/Documents/JavaWorkspace/SuperCaveJumper/android/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/flizzet/Documents/JavaWorkspace/SuperCaveJumper/android/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_c2021dbddba237cf03d3907951e520d3226666be.jar" />
+    </item>
+    <item
+        jar="/Users/flizzet/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.5/dc65bb2f51828c58b1b2b3ac585357204d54ee5f/gdx-1.9.5.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="dc65bb2f51828c58b1b2b3ac585357204d54ee5f">
+        <dex dex="/Users/flizzet/Documents/JavaWorkspace/SuperCaveJumper/android/build/intermediates/pre-dexed/debug/gdx-1.9.5_301a03cdd2abcf92f85a3291f2a1d9f10f8f016b.jar" />
+    </item>
+    <item
+        jar="/Users/flizzet/Documents/JavaWorkspace/SuperCaveJumper/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="219c33dd62405cb0d5465bfd0badc22d96a01242">
+        <dex dex="/Users/flizzet/Documents/JavaWorkspace/SuperCaveJumper/android/build/intermediates/pre-dexed/debug/core-1.0_fbdbfa17086f5f229376f6e1f588ddd577e9482e.jar" />
+    </item>
+    <item
+        jar="/Users/flizzet/Documents/sdks/android/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/flizzet/Documents/JavaWorkspace/SuperCaveJumper/android/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_924c89ce59f074f06485d7eb40fb1bb86251c512.jar" />
+    </item>
+    <item
+        jar="/Users/flizzet/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.5/293bbe05bfb5ca812c849e4d1f494f56509d5a6e/gdx-backend-android-1.9.5.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="293bbe05bfb5ca812c849e4d1f494f56509d5a6e">
+        <dex dex="/Users/flizzet/Documents/JavaWorkspace/SuperCaveJumper/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.9.5_8922624b59c20857b3562014e8557a312d1b8a42.jar" />
+    </item>
+    <item
+        jar="/Users/flizzet/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.9.5/71eba1332b3c2436d3b8e24296a0feb1c01d9e67/gdx-freetype-1.9.5.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="71eba1332b3c2436d3b8e24296a0feb1c01d9e67">
+        <dex dex="/Users/flizzet/Documents/JavaWorkspace/SuperCaveJumper/android/build/intermediates/pre-dexed/debug/gdx-freetype-1.9.5_be0e9444c2c75736d86898d2f79c2df7898b3653.jar" />
+    </item>
+    <item
+        jar="/Users/flizzet/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.6.2/b4406b97b35d7caf7111400ceebc8b92c8998168/gdx-box2d-1.6.2.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="b4406b97b35d7caf7111400ceebc8b92c8998168">
+        <dex dex="/Users/flizzet/Documents/JavaWorkspace/SuperCaveJumper/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.6.2_91a04fbe3eb2acb35896548635c0d1989bb3b989.jar" />
+    </item>
+    <item
+        jar="/Users/flizzet/Documents/JavaWorkspace/SuperCaveJumper/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="27775d59b16610ac76f1b83693fedd9520396332">
+        <dex dex="/Users/flizzet/Documents/JavaWorkspace/SuperCaveJumper/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-8.3.0_c133af2ada5678119340a04c693300b093b350ad.jar" />
+    </item>
+    <item
+        jar="/Users/flizzet/Documents/JavaWorkspace/SuperCaveJumper/android/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/flizzet/Documents/JavaWorkspace/SuperCaveJumper/android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_b689dc11905f380f16641d91e3782dd11fcfd542.jar" />
+    </item>
+    <item
+        jar="/Users/flizzet/.gradle/caches/modules-2/files-2.1/com.underwaterapps.overlap2druntime/overlap2d-runtime-libgdx/0.1.0/1dd0d0808d1e44fe10c749d8216c44e5c4c99361/overlap2d-runtime-libgdx-0.1.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="1dd0d0808d1e44fe10c749d8216c44e5c4c99361">
+        <dex dex="/Users/flizzet/Documents/JavaWorkspace/SuperCaveJumper/android/build/intermediates/pre-dexed/debug/overlap2d-runtime-libgdx-0.1.0_82bae55f7c0c5f16c2a0f105222ca557ebfc55c9.jar" />
+    </item>
+    <item
+        jar="/Users/flizzet/Documents/JavaWorkspace/SuperCaveJumper/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="/Users/flizzet/Documents/JavaWorkspace/SuperCaveJumper/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.3.0_f98a4b3cc9110131b21ed94e0309841c4adb4d90.jar" />
+    </item>
+
+</items>

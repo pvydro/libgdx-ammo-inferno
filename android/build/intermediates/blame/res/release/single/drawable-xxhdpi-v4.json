@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/flizzet/Documents/JavaWorkspace/SuperCaveJumper/android/build/intermediates/res/merged/release/drawable-xxhdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/flizzet/Documents/JavaWorkspace/SuperCaveJumper/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/drawable-xxhdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/flizzet/Documents/JavaWorkspace/SuperCaveJumper/android/build/intermediates/res/merged/release/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/flizzet/Documents/JavaWorkspace/SuperCaveJumper/android/res/drawable-xxhdpi/ic_launcher.png"
+    }
+]
