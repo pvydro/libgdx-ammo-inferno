@@ -1,4 +1,4 @@
-# Ammo Inferno
+# Ammo Inferno (2017)
 Cross platform casual shooter built in Java with LibGDX. Released on Google Play
 
 ### Download (Android):
